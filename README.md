@@ -27,12 +27,15 @@ This project simulates a real-world educational platform where users interact ba
 - React.js
 - Context API
 - Axios
-- React Router  
+- React Router
+
 **Backend:**
 - Node.js
-- Express.js  
+- Express.js
+
 **Database:**
-- MongoDB with Mongoose  
+- MongoDB with Mongoose
+
 **Authentication:**
 - JSON Web Token (JWT)
 - bcrypt for password hashing  
