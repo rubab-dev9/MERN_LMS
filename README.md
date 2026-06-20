@@ -52,8 +52,6 @@ cd backend
 npm install  
 ```  
 
----
-  
 #### Frontend  
 ```bash  
 cd frontend  
@@ -78,8 +76,6 @@ JWT_SECRET=your_secret_key
 ```bash  
 npm run dev  
 ```
-
----
 
 #### Frontend  
 ```bash  
