@@ -23,16 +23,31 @@ This project simulates a real-world educational platform where users interact ba
 
 ## 🛠️ Tech Stack
 
-Frontend: React.js, Context API, Axios, React Router  
-Backend: Node.js, Express.js  
-Database: MongoDB with Mongoose  
-Authentication: JSON Web Token (JWT), bcrypt for password hashing  
+- Frontend: 
+  - React.js
+  - Context API
+  - Axios
+  - React Router  
+- Backend: 
+  - Node.js
+  - Express.js  
+- Database: 
+  - MongoDB with Mongoose  
+- Authentication: 
+  - JSON Web Token (JWT)
+  - bcrypt for password hashing  
 
 ---
 
 ## 🏗️ Project Architecture
 
-Frontend (React) → REST API (Express.js) → Backend Logic (Node.js) → Database (MongoDB)
+Frontend (React)
+     ↓
+REST API (Express.js)
+     ↓
+Backend Logic (Node.js)
+     ↓
+Database (MongoDB)
 
 ---
 
