@@ -87,10 +87,12 @@ npm start
 ## 🎯 Purpose of Project
 
 This project demonstrates real-world full-stack development skills including:
+
 - Role-based system design
 - Secure authentication flow
 - REST API development
 - Scalable frontend architecture
+
 It is suitable for showcasing in job applications, internships, and professional portfolios.
 
 ---
