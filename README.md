@@ -41,6 +41,7 @@ Frontend (React) → REST API (Express.js) → Backend Logic (Node.js) → Datab
 Clone the repository using:
 ```bash
 git clone https://github.com/your-username/lms-project.git
+```
 
 ---
 
