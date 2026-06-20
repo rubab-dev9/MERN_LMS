@@ -81,17 +81,20 @@ Database (MongoDB)
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/your-username/lms-project.git
+```
 
 ### 2. Install dependencies 
 #### Backend
 ```bash
 cd backend
 npm install
+```
 
 #### Frontend
 ```bash
 cd frontend
 npm install
+```
 
 ### 3. Environment Variables
 Create a .env file in backend:
@@ -99,15 +102,18 @@ Create a .env file in backend:
 PORT=5000
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
+```
 
 ### 4. Run the project
 #### Backend
 ```bash
 npm run dev
+```
 
 #### Frontend
 ```bash
 npm start
+```
 
 ## 🎯 Purpose of Project
 
