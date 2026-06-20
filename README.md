@@ -38,7 +38,7 @@ Frontend (React) → REST API (Express.js) → Backend Logic (Node.js) → Datab
 
 ## ⚙️ Installation & Setup
 
-Clone the repository using:
+### 3. Clone the repository using:
 ```bash
 git clone https://github.com/rubab-dev9/MERN_LMS
 ```
