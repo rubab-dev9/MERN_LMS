@@ -4,7 +4,7 @@ A full-stack Learning Management System built using the MERN stack (MongoDB, Exp
 
 ---
 
-## 🚀 Live Overview
+## 🚀 Project Overview
 
 This project simulates a real-world educational platform where users interact based on roles. It ensures secure authentication, structured workflows, and scalable architecture for learning environments.
 
